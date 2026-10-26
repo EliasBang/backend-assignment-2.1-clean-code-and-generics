@@ -2,5 +2,8 @@
   "github.copilot.enable": {
     "*": false
   },
-  "github.copilot.nextEditSuggestions.enabled": false
+  "github.copilot.nextEditSuggestions.enabled": false,
+  "dotrush.roslyn.projectOrSolutionFiles": [
+    "/home/elias/Documents/Coding/Kodehode/Backend/C# Intermediate/backend-assignment-2.1-clean-code-and-generics/01-mission-cleanup/Exercise.csproj"
+  ]
 }
