@@ -4,6 +4,17 @@
   },
   "github.copilot.nextEditSuggestions.enabled": false,
   "dotrush.roslyn.projectOrSolutionFiles": [
+    "/home/elias/Documents/Coding/Kodehode/Backend/C# Intermediate/backend-assignment-2.1-clean-code-and-generics/12-paired-beacons/Exercise.csproj",
+    "/home/elias/Documents/Coding/Kodehode/Backend/C# Intermediate/backend-assignment-2.1-clean-code-and-generics/11-flight-history/Exercise.csproj",
+    "/home/elias/Documents/Coding/Kodehode/Backend/C# Intermediate/backend-assignment-2.1-clean-code-and-generics/10-signal-printer/Exercise.csproj",
+    "/home/elias/Documents/Coding/Kodehode/Backend/C# Intermediate/backend-assignment-2.1-clean-code-and-generics/09-universal-recorder/Exercise.csproj",
+    "/home/elias/Documents/Coding/Kodehode/Backend/C# Intermediate/backend-assignment-2.1-clean-code-and-generics/08-typed-lockers/Exercise.csproj",
+    "/home/elias/Documents/Coding/Kodehode/Backend/C# Intermediate/backend-assignment-2.1-clean-code-and-generics/07-twin-recorders/Exercise.csproj",
+    "/home/elias/Documents/Coding/Kodehode/Backend/C# Intermediate/backend-assignment-2.1-clean-code-and-generics/06-flight-log/Exercise.csproj",
+    "/home/elias/Documents/Coding/Kodehode/Backend/C# Intermediate/backend-assignment-2.1-clean-code-and-generics/05-sample-capsule/Exercise.csproj",
+    "/home/elias/Documents/Coding/Kodehode/Backend/C# Intermediate/backend-assignment-2.1-clean-code-and-generics/04-signal-types/Exercise.csproj",
+    "/home/elias/Documents/Coding/Kodehode/Backend/C# Intermediate/backend-assignment-2.1-clean-code-and-generics/03-launch-rules/Exercise.csproj",
+    "/home/elias/Documents/Coding/Kodehode/Backend/C# Intermediate/backend-assignment-2.1-clean-code-and-generics/02-cargo-calculator/Exercise.csproj",
     "/home/elias/Documents/Coding/Kodehode/Backend/C# Intermediate/backend-assignment-2.1-clean-code-and-generics/01-mission-cleanup/Exercise.csproj"
   ]
 }
