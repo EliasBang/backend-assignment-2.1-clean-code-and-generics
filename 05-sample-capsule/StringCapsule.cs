@@ -1,20 +1,14 @@
-public class StringCapsule
+public class StringCapsule(string content)
 {
-    private string _content = "";
-
-    public StringCapsule(string content)
-    {
-        // TODO: Oppbevar argumentet i feltet.
-    }
+    private string _content = content;
 
     public string Read()
     {
-        // TODO: Returner objektets innhold. Dette er en midlertidig returverdi.
-        return "";
+        return _content;
     }
 
     public void Replace(string content)
     {
-        // TODO: Oppdater feltet.
+        _content = content;
     }
 }
