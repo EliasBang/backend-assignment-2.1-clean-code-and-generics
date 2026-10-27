@@ -25,7 +25,7 @@ Er string i List<string> en tekstverdi eller en type? Hvorfor kan ikke var retri
 Mitt svar:
 
 string er en type. List<string> betyr at List bare godtar typen strings som verdier. I "abcdefg" så er typen string, mens "abcdefg" er verdien.
-retries kan bli til strings hvis du bruker Convert.ToString(retries). Med mindre du tenkte på "three", men den er allerede en string.
+'var' bestemmer typen ut ifra første verdien den får (tror jeg), så etter retries har blitt initialisert så er 'var' egentlig 'int'.
 
 ## Hva endret jeg, og hvorfor?
 
