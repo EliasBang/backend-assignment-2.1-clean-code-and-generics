@@ -1,11 +1,13 @@
 public class TextRecorder
 {
-    private List<string> _items = new List<string>();
+    private readonly List<string> _items = [];
     public int Count { get { return _items.Count; } }
     public void Add(string item) { _items.Add(item); }
     public bool Contains(string item) { return _items.Contains(item); }
     public void Clear()
     {
-        // TODO: Tøm denne beholderen.
+        _items.Clear();
     }
 }
+
+// Alle linjene er like som NumberRecorder, bare med string istedetfor int.
