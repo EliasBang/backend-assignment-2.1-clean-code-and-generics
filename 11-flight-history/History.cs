@@ -1,25 +1,28 @@
 public class History<T>
 {
-    private List<T> _items = new List<T>();
+    private readonly List<T> _items = [];
     public int Count
     {
         get
         {
-            // TODO: Les antallet fra samlingen.
-            return 0;
+            // TODONE: Les antallet fra samlingen.
+            return _items.Count;
         }
     }
     public void Add(T item)
     {
-        // TODO: Oppbevar elementet.
+        // TODONE: Oppbevar elementet.
+        _items.Add(item);
     }
     public List<T> GetSnapshot()
     {
-        // TODO: Returner en samlingskopi med eksisterende elementer.
-        return new List<T>();
+        // TODONE: Returner en samlingskopi med eksisterende elementer.
+
+        return [.. _items];
     }
     public void Clear()
     {
-        // TODO: Tøm historikken.
+        // TODONE: Tøm historikken.
+        _items.Clear();
     }
 }
